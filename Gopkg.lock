@@ -9,7 +9,8 @@
 [[projects]]
   name = "github.com/docker/distribution"
   packages = [".","context","digest","manifest","manifest/schema1","manifest/schema2","reference","uuid"]
-  revision = "99cb7c0946d2f5a38015443e515dc916295064d7"
+  revision = "48294d928ced5dd9b378f7fd7c6f5da3ff3f2c89"
+  version = "v2.6.2"
 
 [[projects]]
   branch = "master"
@@ -42,6 +43,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "24c70cad8ff482e3885acb941ea085b887232b12fc1187b870b67e95380d9e1e"
+  inputs-digest = "7ae5afbd7ae2aab0f125090f0591465976d9858b5e0dc61b2bf6929fcb235f81"
   solver-name = "gps-cdcl"
   solver-version = 1
